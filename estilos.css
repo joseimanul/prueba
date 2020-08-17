@@ -21,3 +21,12 @@ body
 {
     font-size: 21px;
 }
+
+#box
+{
+    width: 60%;
+    padding: 1em;
+    text-align: center;
+    border: 2px solid blueviolet;
+    margin: 0 auto; 
+}
