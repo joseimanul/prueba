@@ -1,0 +1,4 @@
+{
+ "fileUris": ["https://raw.githubusercontent.com/joseimanul/prueba/master/install_ngnix.sh"],
+ "commandToExecute": "./install_ngnix.sh"
+}
